@@ -17,6 +17,6 @@
 - **Modularization**: App, Core, Data modules
 - **DI**: Dagger Hilt
 - **Async**: Kotlin Coroutines + Flow
-- **Network**: Retrofit + Moshi
+- **Network**: Retrofit 
 - **Persistence**: Room Database
 - **UI**: Jetpack Compose
